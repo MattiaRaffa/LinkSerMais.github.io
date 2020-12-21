@@ -54,3 +54,21 @@ body{
     background-color: var(--bgColor);
     color: var(--accentColor);
 }
+
+.footer {
+	text-align: center;
+	font-size: 1.3rem;
+}
+
+.footer a {
+	text-decoration: none;
+}
+
+.media {
+	background: #E34A7E;
+	width: 38px;
+	height: 38px;
+	text-align: center;
+	color: white;
+	margin-bottom: 40px;
+}
